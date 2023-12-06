@@ -15,7 +15,7 @@ The included backend server runs on port 8080, 127.0.0.1:8080
 
 ## Where to place files
 
-/var/www/my-sites/index.html
-/etc/systemd/system/hello-server.service
-/etc/nginx/sites-enabled/hello.conf
-/home/web/hello-server
+```/var/www/my-sites/index.html```
+```/etc/systemd/system/hello-server.service```
+```/etc/nginx/sites-enabled/hello.conf```
+```/home/web/hello-server```
