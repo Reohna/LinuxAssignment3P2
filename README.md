@@ -19,11 +19,11 @@ The included backend server runs on port 8080, 127.0.0.1:8080
 
 ```/var/www/my-sites/index.html```
 
-### Store the .service file
+### Where to store the .service file
 
 ```/etc/systemd/system/hello-server.service```
 
-### Store the hello.conf file
+### Where to store the hello.conf file
 
 ```/etc/nginx/sites-available/hello.conf```
 
