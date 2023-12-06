@@ -13,7 +13,7 @@ The included backend server runs on port 8080, 127.0.0.1:8080
 
 ## Where to place files
 
-### Store the index.html
+### Where to store the index.html
 
 ```
 /var/www/my-sites/index.html
