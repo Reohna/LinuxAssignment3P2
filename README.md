@@ -1,4 +1,4 @@
-# as3p2-starter-f23
+Simple Server with Load Balancer
 
 The included backend server runs on port 8080, 127.0.0.1:8080
 
