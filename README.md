@@ -22,3 +22,5 @@ The included backend server runs on port 8080, 127.0.0.1:8080
 ```/etc/nginx/sites-enabled/hello.conf```
 
 ```/home/web/hello-server```
+
+Please create this directory ```/var/log/hello-server/``` for your backend.log
