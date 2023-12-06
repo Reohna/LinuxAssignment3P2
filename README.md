@@ -48,4 +48,4 @@ Create symbolic link to the hello.conf file:
 /home/web/hello-server
 ```
 
-Please create this directory ```/var/log/hello-server/``` for your backend.log
+Please create this directory ```/var/log/hello-server/``` for your backend.log to store logs. 
