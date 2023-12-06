@@ -41,14 +41,14 @@ The included backend server runs on port 8080, 127.0.0.1:8080
 
 ### Create a link to the conf file
 
-1. Move to the folder:
+Move to the folder:
    ```
 
    cd /etc/nginx/sites-enabled
 
    ```
-
-3. ```
+Create symbolic link to the hello.conf file:
+   ```
   
    ln -s /etc/nginx/sites-available/hello.conf
 
